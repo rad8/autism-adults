@@ -5,19 +5,30 @@ Abstract:
 The purpose of this project is to evaluate the performance of two machine learning algorithms namely, K Nearest Neighbour (KNN) and Support Vector Machine (SVM) on Autism Screening Adult data set uploaded on UC Irvine Machine Learning Repository. Since most screening tools that identify autism are very time consuming, the need to automate the process, so that individuals can screen themselves before diagnosis, is highly beneficial.
 
 Source: Fadi Fayez Thabtah
+
 Department of Digital Technology
+
 Manukau Institute of Technology,
 Auckland, New Zealand
 fadi.fayez@manukau.ac.nz
+
 Data Type: Multivariate OR Univariate OR Sequential OR Time-Series OR Text OR Domain-Theory
 Nominal / categorical, binary and continuous 
+
 Task: Classification
-Attribute Type: Categorical, continuous and binary  
+
+Attribute Type: Categorical, continuous and binary 
+
 Area: Medical, health and social science
+
 Format Type: Non-Matrix
+
 Does your data set contain missing values? Yes
+
 Number of Instances (records in your data set): 704
+
 Number of Attributes (fields within each record): 21
+
 Relevant Information: For Further information about the attributes/feature see below  table.
 Attribute Information:
 
