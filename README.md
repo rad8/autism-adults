@@ -1,6 +1,7 @@
 # autism-adults
 # This is a classification problem on Autism Adults data from UCI Machine Learning Repository.
-Data Set Name: Autistic Spectrum Disorder Screening Data for Adult  
+Data Set Name: Autistic Spectrum Disorder Screening Data for Adult 
+
 Abstract:
 The purpose of this project is to evaluate the performance of two machine learning algorithms namely, K Nearest Neighbour (KNN) and Support Vector Machine (SVM) on Autism Screening Adult data set uploaded on UC Irvine Machine Learning Repository. Since most screening tools that identify autism are very time consuming, the need to automate the process, so that individuals can screen themselves before diagnosis, is highly beneficial.
 
